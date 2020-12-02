@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\user\Desktop\ВВП\9\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\user\Desktop\ВВП\9\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\user\Desktop\ВВП\9\ConsoleApplication1\Debug\ConsoleApplication1.exe
